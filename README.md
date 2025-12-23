@@ -4,6 +4,8 @@
 
 Emma Dobbin, CGT Group
 
+**Note:** All code and data files are in the `Github_weather/` directory.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PENDING.svg)](https://zenodo.org/doi/PENDING)
 
 ## Summary
