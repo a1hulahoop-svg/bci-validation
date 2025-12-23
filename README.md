@@ -2,7 +2,7 @@
 
 **Complementary Diagnostic for Ensemble Forecast Uncertainty**
 
-Emma Dobbin, Consciousness Gradient Theory Group Ltd
+Emma Dobbin, CGT Group
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PENDING.svg)](https://zenodo.org/doi/PENDING)
 
