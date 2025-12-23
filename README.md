@@ -93,8 +93,8 @@ bci-validation/
 ## Installation
 
 ```bash
-git clone https://github.com/emmad obbin/bci-validation.git
-cd bci-validation
+git clone https://github.com/a1hulahoop-svg/bci-validation.git
+cd bci-validation/Github_weather
 pip install -r requirements.txt
 ```
 
