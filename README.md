@@ -1,6 +1,6 @@
 # Bias-Coherence Index (BCI) Validation
 
-[![DOI](https://img.shields.io/badge/DOI-pending-orange)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18079447.svg)](https://doi.org/10.5281/zenodo.18079447)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains code and documentation for the Bias-Coherence Index (BCI), a computationally efficient diagnostic for detecting systematic bias consensus in ensemble weather forecasts.
